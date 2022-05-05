@@ -1,6 +1,6 @@
 ### Olá, sou o Davi Veronez, iniciante na área de programação, se deseja compartilhar conhecimento ou fazer amizade, embarque nessa comigo! 👋
 ![Veronez1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Veronez1&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veronez1)](https://github.com/Veronez1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veronez1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## O que estou estudando e meus objetivos ! 📚
 
