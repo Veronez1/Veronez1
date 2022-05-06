@@ -12,4 +12,4 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <div/><br/>
-Atualmente cursando Análise e Desenvolvimento de Sistemas pelo UNASP-SP , noturno 🌙 ! Com foco em desenvolver habilidades para a área de Front-End e futuramente um professor de tecnologia para crianças, adolescentes e adultos !!!
+Atualmente cursando Análise e Desenvolvimento de Sistemas pelo UNASP-SP , noturno 🌙 ! Com foco em desenvolver habilidades para a área de Front-End Professor de Desenvolvimento Web e Design de games como projeto de extensão do unasp !!!
