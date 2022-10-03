@@ -22,6 +22,6 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <div/><br/>
   
-Atualmente cursando Análise e Desenvolvimento de Sistemas pelo UNASP-SP , noturno 🌙 ! Com foco em desenvolver habilidades para a área de Desenvolvimento fullstack, Professor de Desenvolvimento Web e Design de games como projeto de extensão do Unasp !!!
+Atualmente cursando Análise e Desenvolvimento de Sistemas pelo UNASP-SP , noturno 🌙 !
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
