@@ -9,7 +9,7 @@
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="MySQL" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-     <img align="center" alt="MySQL" src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+     <img align="center" alt="MySQL" src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">
     <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
