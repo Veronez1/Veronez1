@@ -1,4 +1,4 @@
-### Olá, sou o Davi Veronez, iniciante na área de programação, se deseja compartilhar conhecimento ou fazer amizade, embarque nessa comigo! 👋
+### Olá, sou o Davi Veronez, sigo na área de programação, se deseja compartilhar conhecimento ou fazer amizade, embarque nessa comigo! 👋
 
 <div>
   <a href="https://github.com/Veronez1"></a>
