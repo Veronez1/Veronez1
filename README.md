@@ -5,8 +5,8 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas pelo UNASP-SP , notur
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Veronez1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronez1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## O que estou estudando e meus objetivos ! 📚
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,dotnet,git)](https://skills.thijs.gg)
+## Com que estou trabalhando/Aprendendo no momento
+  [![My Skills](https://skills.thijs.gg/icons?i=jquery,nodejs,js,html,css,cs,dotnet,git,angular,ts,firebase,bootstrap)](https://skills.thijs.gg)
   <h2>Contatos</h2>
 
  <div> 
