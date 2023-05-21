@@ -6,7 +6,8 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas pelo UNASP-SP , notur
 </div>
 
 ## Com que estou trabalhando/Aprendendo no momento
-  [![My Skills](https://skills.thijs.gg/icons?i=jquery,nodejs,js,html,css,cs,dotnet,git,angular,ts,firebase,bootstrap)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=jquery,nodejs,js,html,css,cs,dotnet,git,angular,ts,firebase,bootstrap)](https://skills.thijs.gg) <img height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png"> <img height="50px" src="https://sethphat.com/wp-content/uploads/2017/06/icon-aspnet.png">
+
   <h2>Contatos</h2>
 
  <div> 
