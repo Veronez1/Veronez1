@@ -1,5 +1,5 @@
 ### Olá, sou o Davi Veronez, sigo na área de programação, se deseja compartilhar conhecimento ou fazer amizade, embarque nessa comigo! 👋
-Atualmente cursando Análise e Desenvolvimento de Sistemas pelo UNASP-SP , noturno 🌙 !
+Superior concluído em Análise e Desenvolvimento de Sistemas pelo UNASP-SP!
 <div>
   <a href="https://github.com/Veronez1"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Veronez1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronez1&layout=compact&langs_count=7&theme=tokyonight"/>
