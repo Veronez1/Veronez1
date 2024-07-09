@@ -1,3 +1,6 @@
+### Olá, me chamo Davi Veronez e trabalho atualmente como Desenvolvedor na Polo comércio internacional.
+<br> 
+
 Se deseja compartilhar conhecimento ou fazer amizade me mande convite pelo linkedin ou email!
 
 <div>
