@@ -1,7 +1,7 @@
 ### Olá, me chamo Davi Veronez e seja bem-vindo ao meu GitHub!
 <br> 
 
-Se deseja compartilhar conhecimento ou fazer amizade me mande convite pelo linkedin ou email!
+Se deseja compartilhar conhecimento ou fazer amizade me mande convite e uma mensagem pelo linkedin ou email!
 
 <div>
   <a href="https://github.com/Veronez1"></a>
