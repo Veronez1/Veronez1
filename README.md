@@ -1,4 +1,4 @@
-### Olá, me chamo Davi Veronez e trabalho atualmente como Desenvolvedor na Polo comércio internacional.
+### Olá, me chamo Davi Veronez e seja bem-vindo ao meu GitHub!
 <br> 
 
 Se deseja compartilhar conhecimento ou fazer amizade me mande convite pelo linkedin ou email!
