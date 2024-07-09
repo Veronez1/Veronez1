@@ -1,10 +1,10 @@
-### Se deseja compartilhar conhecimento ou fazer amizade me mande convite pelo linkedin ou email!
+Se deseja compartilhar conhecimento ou fazer amizade me mande convite pelo linkedin ou email!
 
 <div>
   <a href="https://github.com/Veronez1"></a>
 </div>
 
-## Com que estou trabalhando no momento
+Com que estou trabalhando no momento
 <code><img
     height="30"
     src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png"
