@@ -2,11 +2,14 @@
 Superior concluído em Análise e Desenvolvimento de Sistemas pelo UNASP-SP!
 <div>
   <a href="https://github.com/Veronez1"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Veronez1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronez1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronez1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Com que estou trabalhando/Aprendendo no momento
-  [![My Skills](https://skills.thijs.gg/icons?i=jquery,nodejs,js,html,css,cs,dotnet,git,angular,ts,firebase,bootstrap)](https://skills.thijs.gg) <img height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png"> <img height="50px" src="https://sethphat.com/wp-content/uploads/2017/06/icon-aspnet.png">
+## Com que estou trabalhando no momento
+<code><img
+    height="30"
+    src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png"
+    alt="Logo C#"/></code>
 
   <h2>Contatos</h2>
 
