@@ -22,5 +22,6 @@ Com que estou trabalhando no momento:
  </div>
 
 
+ 
 
  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
